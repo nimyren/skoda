@@ -1,0 +1,18 @@
+body{
+	z-index: 100; /* текст не размыт */
+    color: #fff;
+    text-align: center;
+    text-shadow: 0 0 5px rgba(0,0,0,.5);
+}
+form{
+		z-index: 100; /* текст не размыт */
+    color: #fff;
+    text-align: center;
+    text-shadow: 0 0 5px rgba(0,0,0,.5);
+}
+.chik {
+	
+    position: fixed; 
+    left: 0; bottom: 0; 
+    width: 100%; 
+   }
